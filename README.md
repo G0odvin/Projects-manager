@@ -2,7 +2,7 @@
 - An application for creating and managing projects
 
 # Demo
-- Demo hosted 
+- Demo hosted project-b3c61.web.app
 
 # Features
 - creating a project with categories and execution time
