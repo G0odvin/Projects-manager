@@ -1,9 +1,28 @@
-# React Starter Pack
+# Projects manager App
+- An application for creating and managing projects
 
-To use this template click `Use this template`
+# Demo
+- Demo hosted 
 
-### Available Scripts
+# Features
+- creating a project with categories and execution time
+- deleting the project
+- adding users to the project
+- displaying users online/offline
+- adding comments to project
+- Firebase - a backend as a service
 
-`Deploy` - available to deploy your application to gh-pages
+# Built with
+- React includes Context, Custom hooks, Reducers, Routing
+- Firebase real-time database & authentication
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Author
+- https://www.linkedin.com/in/anton-novyk-50453a212/
+
+# Instructions
+- First clone this repository.
+- $ git clone https://github.com/G0odvin/Projects-manager.git
+- Install dependencies. Make sure you already have nodejs & npm installed in your system.
+- $ npm install # or yarn
+- Run it
+- $ npm start # or yarn start
